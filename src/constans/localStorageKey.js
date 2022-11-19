@@ -1,1 +1,1 @@
-export const STORAGE_KEY = 'contacts';
+export const STORAGE_KEY = 'contacts-key';
