@@ -1,8 +1,11 @@
+import { useDispatch } from 'react-redux';
+
 import PropTypes from 'prop-types';
 
 import { ImUser } from 'react-icons/im';
-import { useDispatch } from 'react-redux';
+
 import { deleteContact } from 'redux/contactsSlice.js';
+
 import {
   ContactItem,
   Name,
