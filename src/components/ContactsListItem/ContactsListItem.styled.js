@@ -36,7 +36,7 @@ export const ButtonDelete = styled.button`
   font-family: monospace;
   width: 100px;
   height: 30px;
-  margin: 0 auto;
+  margin-left: auto;
   border-radius: 5px;
   background-color: #9173ec;
   border: 1px solid #571dac;
